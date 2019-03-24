@@ -1,0 +1,37 @@
+Image processing is a technique that is used to either enhance the quality of the image
+or extract useful information from it.
+
+An image is nothing but a two dimensional array i.e any image can be represented using a 
+2D array.
+
+
+Applications of Image Processing:
+    Image processing in todays advancing world have various uses such as;
+    
+    Intelligent transportation systems
+    Moving object Tracking
+    Defence
+    Automatic Visual Inspection system and so on.
+    
+    
+    
+    
+On Scikit-image:
+
+
+The scikit-image provides a verstile set of image processing routines.
+It works with Numpy arrays.
+Within scikit-image, images are represented as NumPy arrays
+The package can be imported as 
+
+>> import skimage
+
+
+;;;;
+
+BLOB-> Binary Large Object
+
+Blob in the context of image processing is a connected area in an image.
+
+blob_dog-> finds blobs in the given grayscale image.
+grayscale-> A group of shades without any visible colors. Grayscale contains only brightness information, not colors.
